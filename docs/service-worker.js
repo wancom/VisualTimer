@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.8d794562fd6d8bbb64e71c475e82d086.js"
+  "/VisualTimer/precache-manifest.7268b401b949ff03990a490228a22c9b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "visualtimer"});
